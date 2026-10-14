@@ -1,0 +1,8 @@
+{
+  "name": "WorkRemix 🥝 Prompt Refiner 提示词精炼",
+  "description": "An intelligent tool to refine natural language ideas into structured, professional AI prompts using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
